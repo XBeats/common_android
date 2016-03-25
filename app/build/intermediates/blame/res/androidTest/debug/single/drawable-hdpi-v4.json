@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_off.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_check_off.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_close_normal.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_close_normal.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_check_on.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_check_on.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_close_selected.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_close_selected.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\src\\androidTest\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_close_pressed.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_close_pressed.png"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\btn_clear_log.png",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\btn_clear_log.png"
+    }
+]

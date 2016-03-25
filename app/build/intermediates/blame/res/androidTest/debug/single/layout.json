@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\gridview_in_city_list.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\gridview_in_city_list.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loading_listview.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\loading_listview.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\generic_list_progress_view.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\generic_list_progress_view.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_popup_window_layout.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\log_popup_window_layout.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_index_listview.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_index_listview.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\log_test_activity.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\log_test_activity.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\index_list_item.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\index_list_item.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\index_letter_overlay.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\layout\\index_letter_overlay.xml"
+    }
+]

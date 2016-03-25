@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\border_transparent.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable\\border_transparent.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_close.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_close.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_check.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_check.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_round_border.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_round_border.xml"
+    }
+]

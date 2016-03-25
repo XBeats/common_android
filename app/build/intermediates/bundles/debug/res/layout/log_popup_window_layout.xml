@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_round_border"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/ll_logcat_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/deepskyblue"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical"
+            android:text="@string/title_logcat"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="2dp"
+            android:textSize="18sp" />
+        
+        <CheckBox 
+            android:id="@+id/chk_stop_log"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:background="@drawable/btn_check"
+            android:checked="true"/>
+
+        <ImageView
+            android:id="@+id/img_close"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_close"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" 
+        android:background="@color/lightblue"/>
+
+</LinearLayout>

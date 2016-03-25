@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fragment_slide_out_to_right.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\fragment_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fragment_slide_out_to_left.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\fragment_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_slide_out_to_right.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_slide_out_to_right.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fragment_slide_in_from_right.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\fragment_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_slide_in_from_right.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_slide_out_to_left.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_slide_out_to_left.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_slide_in_from_left.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\activity_no_animation.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\activity_no_animation.xml"
+    },
+    {
+        "merged": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\fragment_slide_in_from_left.xml",
+        "source": "C:\\tangjd\\Work\\workspace-github\\common_android\\app\\build\\intermediates\\bundles\\debug\\res\\anim\\fragment_slide_in_from_left.xml"
+    }
+]
